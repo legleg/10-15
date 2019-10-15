@@ -1,5 +1,10 @@
-body{background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhkAzQsMBWuo&psig=AOvVaw0TvsqHTsP4DgAD7PaCfOX2&ust=1571263198444000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDU9t6hn-UCFQAAAAAdAAAAABAM);
-height: 100%;}
+body{
+    background-image: url("https://cdn.hipwallpaper.com/m/38/58/vDSBnc.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 h1{
     font-synthesis: weight;
