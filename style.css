@@ -10,9 +10,9 @@ h1{
     font-synthesis: weight;
     font-weight: bold;
     color: red;
-    size: 69px;
+    font-size: 100px;
 }
 p{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    size: 69px;
+    font-size: 69px;
 }
